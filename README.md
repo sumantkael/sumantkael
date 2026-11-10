@@ -1,9 +1,7 @@
 ### Sumant Kael
 
-Developer building clean interfaces and quiet, useful tools on the web.
+Building cool stuff.
 
 ---
 
-* **Focus:** UI systems, frontend engineering, and browser extensions
-* **Projects:** [Privacy-Shield](https://github.com/sumantkael/Privacy-Shield) · [Komponi](https://github.com/sumantkael/Komponi)
-* **Elsewhere:** [GitHub](https://github.com/sumantkael)
+[GitHub](https://github.com/sumantkael) &nbsp;·&nbsp; [X / Twitter](https://x.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com) &nbsp;·&nbsp; [Email](mailto:)
